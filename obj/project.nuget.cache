@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IopQwyHFv+M=",
+  "success": true,
+  "projectFilePath": "F:\\NET_9_Sample\\NET_9_Business_App_MinimalAPI_Register\\NET_9_Business_App_MinimalAPI_Register.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dredg\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\dredg\\.nuget\\packages\\minimalapis.extensions\\0.11.0\\minimalapis.extensions.0.11.0.nupkg.sha512",
+    "C:\\Users\\dredg\\.nuget\\packages\\minivalidation\\0.8.0\\minivalidation.0.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
